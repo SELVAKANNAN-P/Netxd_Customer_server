@@ -1,10 +1,11 @@
 package controllers
 
 import (
-	"Netxd_Project1/Netxd_Customer_dal/interfaces"
-	"Netxd_Project1/Netxd_Customer_dal/models"
-	pro "Netxd_Project1/customer"
 	"context"
+
+	pro "github.com/SELVAKANNAN-P/Customer"
+	"github.com/SELVAKANNAN-P/Netxd_Dal/interfaces"
+	"github.com/SELVAKANNAN-P/Netxd_Dal/models"
 )
 
 type RPCserver struct {
@@ -16,7 +17,7 @@ var (
 )
 
 func (s *RPCserver) CreateCustomer(ctx context.Context, req *pro.Customer) (*pro.CustomerResponse, error) {
-	 dbCustomer := &models.Customer{
+	dbCustomer := &models.Customer{
 		CustomerID: req.CustomerID,
 		FirstName:  req.FirstName,
 	}

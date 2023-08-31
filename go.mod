@@ -3,13 +3,18 @@ module github.com/SELVAKANNAN-P/Netxd_Customer_server
 go 1.18
 
 require (
+	// github.com/SELVAKANNAN-P/Netxdconfig v1.0.3
 	go.mongodb.org/mongo-driver v1.12.1
 	google.golang.org/grpc v1.57.0
 )
 
 require (
-	github.com/SELVAKANNAN-P/Customer v1.0.1 // indirect
-	github.com/SELVAKANNAN-P/Netxd_Dal v1.0.1 // indirect
+	github.com/SELVAKANNAN-P/Customer v1.0.2
+	github.com/SELVAKANNAN-P/Netxd_Dal v1.0.3
+	github.com/SELVAKANNAN-P/Netxdconfig v1.0.1
+)
+
+require (
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/klauspost/compress v1.13.6 // indirect
