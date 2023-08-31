@@ -1,3 +1,7 @@
+github.com/SELVAKANNAN-P/Customer v1.0.1 h1:uqs9Yen2ovJEETb9/DItTXdqBWUA5+15YMhA5zRh/cM=
+github.com/SELVAKANNAN-P/Customer v1.0.1/go.mod h1:xspQoDGgNqdM2VN+5BJBdVUbEPTmovgir3OY7hr9FBg=
+github.com/SELVAKANNAN-P/Netxd_Dal v1.0.1 h1:47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+github.com/SELVAKANNAN-P/Netxd_Dal v1.0.1/go.mod h1:QQPNBQgjFaEaoSSJnkbTIByFtd4NIT4U/n4CHsjhkSA=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=

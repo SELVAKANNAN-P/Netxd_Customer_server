@@ -8,6 +8,8 @@ require (
 )
 
 require (
+	github.com/SELVAKANNAN-P/Customer v1.0.1 // indirect
+	github.com/SELVAKANNAN-P/Netxd_Dal v1.0.1 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/klauspost/compress v1.13.6 // indirect
